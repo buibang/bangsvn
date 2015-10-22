@@ -1,8 +1,4 @@
 Hello
-<<<<<<< .mine
-bbbbbbbbbbb
-ccccccc||||||| .r5
-bbbbbbbbbbb=======
 aaaaaaaaaaaa
 bbbbbbbbbbb
->>>>>>> .r6
+CCCCCC
