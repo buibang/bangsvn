@@ -1,2 +1,6 @@
+<<<<<<< .mine
 vidu svn
-aaaaaa
+bbbbbb||||||| .r9
+vidu svn=======
+vidu svn
+aaaaaa>>>>>>> .r10
